@@ -70,7 +70,7 @@ You can repeat the process for multiple websites or exit the script.
 ## Disclaimer
 
 This tool is for educational and testing purposes only. Do not use it for malicious or illegal activities. The developer is not responsible for any misuse or damage caused by this tool.
-<img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
+<br><img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
 
 
 
